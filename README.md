@@ -1,5 +1,6 @@
 # Florence-engineer
-Hi, I'm Florence 👋 An aspiring AWS Cloud Engineer building hands-on experience with AWS, Terraform, Linux, Git, Bash, and Python. Currently pursuing AWS certifications and creating cloud projects focused on infrastructure, automation, and scalable cloud solutions. Always learning and growing.
+
+ Hi, I'm Florence Wouking 👋 Aspiring AWS Cloud Engineer | Terraform | Linux | Git | Python | Cloud Automation with a background in manufacturing and process engineering. I'm building hands-on experience designing cloud infrastructure with AWS and Terraform while strengthening my Linux, Git, Bash, and Python skills. My goal is to design secure, scalable, and automated cloud solutions. Always learning and growing.
 
 ## About Me 
  - AWS Cloud Practitioner (In Progress)
@@ -7,13 +8,30 @@ Hi, I'm Florence 👋 An aspiring AWS Cloud Engineer building hands-on experienc
  - Linux | Git | Terraform | Bash | Python
  - Passionate about cloud infrastructure and automation
  
- ## Skills
-  - AWS (IAM, EC2, S3, VPC, RDS, CloudWatch)
-  - Terraform - Git & GitHub
-  - Linux
-  - Bash 
-  -  Python
- 
+ ## Technical Skills
+
+### Cloud
+- AWS IAM
+- EC2
+- S3
+- VPC
+- RDS
+- CloudWatch
+
+### Infrastructure as Code
+- Terraform
+
+### Operating Systems
+- Linux
+
+### Programming & Scripting
+- Bash
+- Python
+
+### Version Control
+- Git
+- GitHub
+
  ## Portfolio Projects 
  | Project | Technologies |
  |---------|--------------| 
@@ -22,6 +40,12 @@ Hi, I'm Florence 👋 An aspiring AWS Cloud Engineer building hands-on experienc
  | Serverless API | Lambda, API Gateway, DynamoDB |
  | VPC Deployment | VPC, Subnets, NAT Gateway |
 
+## Certifications
+- AWS Certified Cloud Practitioner (In Progress)
+- AWS Certified Solutions Architect – Associate (Planned)
+
   ## Contact 
    - LinkedIn: https://www.linkedin.com/in/florence-wouking-b60a57151 
    - Email: wouclaire@gmail.com
+     
+I'm always looking for opportunities to learn, collaborate, and contribute to cloud and DevOps projects. Feel free to connect with me on LinkedIn.
