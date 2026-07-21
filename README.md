@@ -14,11 +14,13 @@ Hi, I'm Florence 👋 An aspiring AWS Cloud Engineer building hands-on experienc
   - Bash 
   -  Python
  
- ## Current Projects 
-  -  AWS Static Website 
-  -  Terraform Infrastructure 
-  -  EC2 Web Server 
-  -   Serverless API
+ ## Portfolio Projects 
+ | Project | Technologies |
+ |---------|--------------| 
+ | Terraform S3 Static Website | Terraform, S3 | 
+ | EC2 Web Server | EC2, Security Groups |
+ | Serverless API | Lambda, API Gateway, DynamoDB |
+ | VPC Deployment | VPC, Subnets, NAT Gateway |
 
   ## Contact 
    - LinkedIn: https://www.linkedin.com/in/florence-wouking-b60a57151 
